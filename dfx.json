@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "name_tracker_backend": {
+      "main": "src/name_tracker_backend/main.mo",
+      "type": "motoko"
+    }
+  }
+}
